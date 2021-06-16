@@ -1,4 +1,4 @@
-Project Author : Alby Francis
+Project Author : Alby Francis.
 Project Desc: DocApp is an Appointment Booking System to doctor via patient, where both doctor and patient has been bought to a same platform. Patient can easily search and book for the appointment within a minute. Also an admin role is also given here to confirm doctor registration request to the system which is taken as a docotr varification process.
 Date : June 2021
 
